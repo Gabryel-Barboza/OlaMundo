@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e Github do CursoEmVideo
+ Primeiro repositório do **curso de Git e Github** do *CursoEmVideo*
 
  Repositório criado para fins didáticos.
  
