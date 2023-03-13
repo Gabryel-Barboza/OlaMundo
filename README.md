@@ -3,4 +3,3 @@
 
  Repositório criado para fins didáticos.
  
- Linha adicionada direto pelo Github. OMG!
